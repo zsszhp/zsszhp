@@ -70,6 +70,3 @@
 - 🌐 GitHub: https://github.com/zsszhp
 
 ---
-
-> ⚡ This GitHub profile is automatically maintained via GitHub Actions.  
-> 🛠️ Focused on long-term, engineering-oriented growth.
