@@ -2,8 +2,6 @@
 
 👨‍💻 工业缺陷检测图像算法工程师 · Open Source Enthusiast  
 💡 目前专注于 **Python / C++ / 图像处理 / 机器学习 / 工程项目**  
-📍 来自中国 · 广东
-
 ---
 
 ## 🔧 Skills
@@ -12,18 +10,6 @@
 **Tools & Frameworks:** OpenCV · TensorFlow · PyTorch · NumPy  
 **Dev Tools:** Git · Docker · Linux
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- GitHub 贡献统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zsszhp&show_icons=true&theme=github_dark" width="48%">
-  <!-- 语言使用统计 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsszhp&layout=compact&theme=github_dark" width="48%">
-</div>
-
----
 
 ## 📌 Featured Projects
 
