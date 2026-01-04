@@ -25,16 +25,6 @@
 - Linux · Git · Docker
 - FastAPI · 脚本自动化
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zsszhp&show_icons=true&theme=github_dark" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsszhp&layout=compact&theme=github_dark" width="48%">
-</div>
-
----
 
 ## 🚀 Featured Projects
 
